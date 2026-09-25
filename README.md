@@ -1,5 +1,3 @@
-#Bike Sharing Demand Prediction
-
 # Project Overview
 
 This project predicts the **number of bikes rented** using the Bike Sharing Demand dataset from Kaggle. It uses factors like time, weather, temperature, humidity, and working days.
